@@ -1,0 +1,18 @@
+{
+  "name": "first-p2p-conn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dat-swarm-defaults": "^1.0.3",
+    "discovery-swarm": "^6.1.0",
+    "get-port": "^7.1.0",
+    "portfinder": "^1.0.32"
+  }
+}
